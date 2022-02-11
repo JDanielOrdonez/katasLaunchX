@@ -1,2 +1,2 @@
 # katasLaunchX - Innovaccion Virtual
-Aqui se encuentran las Katas del curso Launchx Contenido: Ejercicios del propedeutico Autor: Jesus Daniel Dominguez Ordoñez
+Aquí se encuentran las Katas del curso Launchx Contenido: Ejercicios del propedéutico Autor: Jesus Daniel Dominguez Ordoñez
